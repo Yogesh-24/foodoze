@@ -18,9 +18,9 @@
 5. Use that Card Number & CVV while placing an order, else order won't be successful or use "Cash on delivery" option.
 6. What's lacking? Dynamic payment(real payment system) and error reporting lacks in this project. And also one might wish for showing corresponding food item's photo and all that stuff.
 
-#ScreenShots
+#Overview
 
-## Overview
+## Screenshots
 
 <img src="./site screenshots/login.png" />
 <img src="./site screenshots/register.png" />
