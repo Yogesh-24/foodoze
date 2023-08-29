@@ -1,4 +1,4 @@
-# Food Ordering System
+# Foodoze
 
 ## How To Install -
 
